@@ -1,0 +1,1 @@
+C:\Users\paola\Documents\CompetitiveProgramming\rust\queries_of_operations\target\debug\queries_of_operations.exe: C:\Users\paola\Documents\CompetitiveProgramming\rust\queries_of_operations\src\main.rs
