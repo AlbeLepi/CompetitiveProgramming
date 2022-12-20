@@ -1,0 +1,1 @@
+C:\Users\paola\Documents\CompetitiveProgramming\Rust\monkey_and_oiled_bamboo\target\release\monkey_and_oiled_bamboo.exe: C:\Users\paola\Documents\CompetitiveProgramming\Rust\monkey_and_oiled_bamboo\src\main.rs

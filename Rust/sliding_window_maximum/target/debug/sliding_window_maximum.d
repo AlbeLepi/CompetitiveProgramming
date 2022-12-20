@@ -1,0 +1,1 @@
+C:\Users\paola\Documents\CompetitiveProgramming\Rust\sliding_window_maximum\target\debug\sliding_window_maximum.exe: C:\Users\paola\Documents\CompetitiveProgramming\Rust\sliding_window_maximum\src\main.rs
